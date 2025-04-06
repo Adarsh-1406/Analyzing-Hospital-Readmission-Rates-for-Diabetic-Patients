@@ -1,8 +1,7 @@
-#Analyzing Hospital Readmission Rates for Diabetic Patients
+# Analyzing Hospital Readmission Rates for Diabetic Patients
+## BA780 Introduction to Data Analytics - Group Project
 
-##BA780 Introduction to Data Analytics 
-
-###Collaborators: 
+### Collaborators: 
 1. Adarsh Prajapat
 2. Victor Floriano
 3. Ya Chu Hsu
@@ -10,8 +9,7 @@
 5. Luca Matteucci
 6. Jessica Tong
 
-
-##Summary:
+## Summary:
 
 This report presents a comprehensive analysis of a medical dataset with the aim of understanding the factors influencing hospital readmission for diabetic patients. 
 The analysis begins with extensive data exploration, examining variables such as age, gender, A1C results, and medication usage to uncover patterns and correlations. 
